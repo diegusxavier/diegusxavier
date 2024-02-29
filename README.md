@@ -4,7 +4,7 @@
 - 🧐 I’m currently learning about Robotics, IoT, Machine Learning and Process Automation
 - 📷 Amateur photographer in my spare time
 
-### This is my laboraroty, I will post some of my projects in it 🤖
+### This is my laboratory, I will post some of my projects in it 🤖
 My worktools:
 <div>
   <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
