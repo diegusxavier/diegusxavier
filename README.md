@@ -18,7 +18,7 @@ My worktools:
 <br>
 -->
 <div>
-  <img align="center" alt="" height="120" width="170" src="https://github.com/diegusxavier/diegusxavier/assets/84353894/9a0cb643-e650-4053-a250-561f20ac85c5">
+  <img align="center" alt="" height="120" width="210" src="https://github.com/diegusxavier/diegusxavier/assets/84353894/9a0cb643-e650-4053-a250-561f20ac85c5">
 </div>
 Contact me:
 <div>
